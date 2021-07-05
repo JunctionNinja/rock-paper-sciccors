@@ -31,7 +31,6 @@ namespace RPS
                 label3.Text = "Draw";
                 button1.Enabled = true;
             }
-            //ODA4NDMzNzU3ODM2OTM1MjY4.YCGemw._bA_igBKr6-NCcjGa8bmQS0gmBc
             else
             {
                 if (randomNumber.Equals(2))
